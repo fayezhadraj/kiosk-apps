@@ -1,0 +1,50 @@
+{
+  "settings_password": "1630",
+  "custom_app_title": "Kiosk Launcher",
+  "theme": "GreyOrange",
+  "wifi_enabled": true,
+  "wifi_settings_enabled": true,
+  "control_wifi_state": true,
+  "connectivity_panel_enabled": true,
+  "bluetooth_enabled": true,
+  "volume_controls_enabled": true,
+  "disable_lock_screen": true,
+  "disable_safe_mode": true,
+  "disable_factory_reset": true,
+  "allow_user_install_updates": true,
+  "always_wake_device": false,
+  "display_timeout": 300,
+  "background_colour": "#424242",
+  "toolbar_colour": "#424242",
+  "navigation_bar_colour": "#424242",
+  "app_text_label_colour": "#AAAAAA",
+  "screen_orientation": "PORTRAIT",
+  "browser_enabled": false,
+  "hide_status_bar": true,
+  "hide_system_dialogs": true,
+  "prevent_notification_access": true,
+  "auto_grant_permissions": true,
+  "multitap_settings": true,
+  "multitap_count": 4,
+  "visible_apps": "com.example.imrphotoup,com.example.datacollect,org.koboc.collect.android,com.android.settings,com.android.camera,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.google.android.apps.photos",
+  "allowed_apps": "com.example.imrphotoup,com.example.datacollect,org.koboc.collect.android,com.android.settings,com.android.camera,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.google.android.apps.photos",
+  "automatic_config_download_frequency": 15,
+  "automatic_config_url": "https://raw.githubusercontent.com/fayezhadraj/kiosk-apps/main/config.json",
+  "install_apps": [
+    {
+      "package": "org.koboc.collect.android",
+      "version": 2025,
+      "url": "https://github.com/fayezhadraj/kiosk-apps/releases/download/v1.0/org.koboc.collect.android_v2025.2.3.apk"
+    },
+    {
+      "package": "com.example.datacollect",
+      "version": 1,
+      "url": "https://github.com/fayezhadraj/kiosk-apps/releases/download/v1.0/android-data-collect_build_2.31.apk"
+    },
+    {
+      "package": "com.example.imrphotoup",
+      "version": 1,
+      "url": "https://github.com/fayezhadraj/kiosk-apps/releases/download/v1.0/imrphotoup.apk"
+    }
+  ]
+}
