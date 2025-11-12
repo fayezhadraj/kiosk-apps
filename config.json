@@ -12,7 +12,7 @@
   "disable_safe_mode": true,
   "disable_factory_reset": true,
   "allow_user_install_updates": true,
-  "always_wake_device": false,
+  "always_wake_device": true,
   "display_timeout": 300,
   "background_colour": "#424242",
   "toolbar_colour": "#424242",
@@ -48,3 +48,4 @@
     }
   ]
 }
+
