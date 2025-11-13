@@ -1,6 +1,6 @@
 {
   "settings_password": "1630",
-  "custom_app_title": "Kiosk Launcher",
+  "custom_app_title": "IMR Kiosk Launcher",
   "theme": "GreyOrange",
 
   "wifi_enabled": true,
@@ -59,3 +59,4 @@
     }
   ]
 }
+
