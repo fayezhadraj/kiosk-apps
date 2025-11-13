@@ -1,6 +1,6 @@
 {
   "settings_password": "1630",
-  "custom_app_title": "IMR Kiosk Launcher",
+  "custom_app_title": "Kiosk Launcher",
   "theme": "GreyOrange",
 
   "wifi_enabled": true,
@@ -34,9 +34,11 @@
   "multitap_settings": true,
   "multitap_count": 4,
 
-  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera",
+  "high_accuracy_location": true,
 
-  "allowed_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera,com.google.android.apps.photos",
+  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.transsion.calculator,com.sec.android.app.popupcalculator,com.miui.calculator,com.coloros.calculator,com.android.deskclock,com.transsion.deskclock,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera",
+
+  "allowed_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.transsion.calculator,com.sec.android.app.popupcalculator,com.miui.calculator,com.coloros.calculator,com.android.deskclock,com.transsion.deskclock,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera,com.google.android.apps.photos,com.google.android.gms,com.google.android.gsf,com.android.vending,com.google.android.gsf.login",
 
   "automatic_config_download_frequency": 15,
   "automatic_config_url": "https://raw.githubusercontent.com/fayezhadraj/kiosk-apps/main/config.json",
@@ -59,4 +61,3 @@
     }
   ]
 }
-
