@@ -16,6 +16,7 @@
   "disable_factory_reset": true,
   "allow_user_install_updates": true,
   "always_wake_device": true,
+  "disable_usb_debugging": true,
 
   "display_timeout": 300,
   "background_colour": "#424242",
@@ -33,8 +34,9 @@
   "multitap_settings": true,
   "multitap_count": 4,
 
-  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.google.android.apps.photos,com.android.camera,com.google.android.GoogleCamera,com.sec.android.app.camera,com.huawei.camera,com.oppo.camera,com.miui.camera",
-  "allowed_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.google.android.apps.photos,com.android.camera,com.google.android.GoogleCamera,com.sec.android.app.camera,com.huawei.camera,com.oppo.camera,com.miui.camera",
+  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera",
+
+  "allowed_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.android.settings,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.google.android.deskclock,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera,com.google.android.apps.photos",
 
   "automatic_config_download_frequency": 15,
   "automatic_config_url": "https://raw.githubusercontent.com/fayezhadraj/kiosk-apps/main/config.json",
