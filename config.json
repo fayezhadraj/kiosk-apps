@@ -1,7 +1,7 @@
 {
   "licence_key": "16FY5S",
-  "settings_password": "0000",
-  "custom_app_title": "IMR Kiosk Launcher",
+  "settings_password": "1630",
+  "custom_app_title": "IMR1 Kiosk Launcher",
   "theme": "GreyOrange",
   "wifi_enabled": true,
   "wifi_settings_enabled": true,
@@ -52,6 +52,7 @@
     }
   ]
 }
+
 
 
 
