@@ -18,7 +18,6 @@
   "allow_user_install_updates": true,
   "always_wake_device": true,
   "disable_usb_debugging": true,
-  "allow_settings_intents": true,
   "display_timeout": 300,
   "background_colour": "#424242",
   "toolbar_colour": "#424242",
@@ -54,6 +53,7 @@
     }
   ]
 }
+
 
 
 
