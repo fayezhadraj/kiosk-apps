@@ -1,14 +1,12 @@
 {
   "licence_key": "16FY5S",
   "settings_password": "1630",
-  "custom_app_title": "IMR Kiosk Launcher",
+  "custom_app_title": "IMR1 Kiosk Launcher",
   "theme": "GreyOrange",
-
   "wifi_enabled": true,
   "wifi_settings_enabled": true,
   "control_wifi_state": true,
   "connectivity_panel_enabled": true,
-
   "bluetooth_enabled": true,
   "volume_controls_enabled": true,
   "keep_screen_on": false,
@@ -26,7 +24,7 @@
   "app_text_label_colour": "#AAAAAA",
   "screen_orientation": "PORTRAIT",
   "browser_enabled": false,
-  "hide_status_bar": true,
+  "hide_status_bar": false,
   "hide_system_dialogs": true,
   "prevent_notification_access": true,
   "auto_grant_permissions": true,
@@ -54,6 +52,7 @@
     }
   ]
 }
+
 
 
 
