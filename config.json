@@ -1,7 +1,7 @@
 {
   "licence_key": "16FY5S",
   "settings_password": "1630",
-  "custom_app_title": "IMR1 Kiosk Launcher",
+  "custom_app_title": "IMR Kiosk Launcher",
   "theme": "GreyOrange",
   "wifi_enabled": true,
   "wifi_settings_enabled": true,
@@ -31,7 +31,7 @@
   "multitap_settings": true,
   "multitap_count": 4,
   "high_accuracy_location": true,
-  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.transsion.calculator,com.sec.android.app.popupcalculator,com.miui.calculator,com.coloros.calculator,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera",
+  "visible_apps": "com.example.imrphotoup,org.koboc.collect.android,com.companyname.DataCollect,com.google.android.documentsui,com.google.android.calendar,com.android.calculator2,com.transsion.calculator,com.sec.android.app.popupcalculator,com.miui.calculator,com.coloros.calculator,com.gallery20,com.sec.android.gallery3d,com.miui.gallery,com.huawei.photos,com.coloros.gallery3d,com.vivo.gallery,com.asus.gallery,com.transsion.camera,com.android.camera,com.sec.android.app.camera,com.huawei.camera,com.hihonor.camera,com.oppo.camera,com.vivo.camera,com.miui.camera,com.asus.camera,com.sec.android.app.popupcalculator,com.samsung.android.calendar",
   "automatic_config_download_frequency": 15,
   "automatic_config_url": "https://raw.githubusercontent.com/fayezhadraj/kiosk-apps/main/config.json",
   "install_apps": [
@@ -52,7 +52,6 @@
     }
   ]
 }
-
 
 
 
