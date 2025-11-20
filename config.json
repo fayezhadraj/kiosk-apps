@@ -6,7 +6,7 @@
   "wifi_enabled": true,
   "wifi_settings_enabled": true,
   "control_wifi_state": true,
-  "connectivity_panel_enabled": true,
+  "connectivity_panel_enabled": false,
   "bluetooth_enabled": true,
   "volume_controls_enabled": true,
   "keep_screen_on": false,
@@ -52,6 +52,7 @@
     }
   ]
 }
+
 
 
 
