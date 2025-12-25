@@ -13,7 +13,7 @@
   "prevent_screen_power_off": false,
   "disable_lock_screen": true,
   "disable_safe_mode": true,
-  "disable_factory_reset": true,
+  "disable_factory_reset": false,
   "allow_user_install_updates": true,
   "always_wake_device": false,
   "disable_usb_debugging": true,
